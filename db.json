@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Newton Ombese",
+      "school": "Moringa School"
+    },
+    {
+      "id": 2,
+      "name": "Donald Brooks",
+      "school": "Moringa School"
+    },
+    {
+      "name": "Kelvin Nderitu",
+      "school": "Moringa School",
+      "id": 3
+    },
+    {
+      "name": "Tracy Kariuki",
+      "school": "Moringa School",
+      "id": 4
+    }
+  ]
+}
